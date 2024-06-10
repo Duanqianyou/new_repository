@@ -63,7 +63,16 @@ Markdown,文本修饰语言，用特殊符号修饰正文效果<br>
 ```cpp
 	#include<iostream>
 ```
+# GitHub
 
+## 关键字查询
+	awesome,去此标签类别中查询项目  python awesome \<br\>
+	python tutorial, 查询（python）资料，书籍，文档 \<br\>
+	socket sample,查询对应技术的代码样本
+
+# GitHUb 三要素
+## Repository 仓库
+	
 
 
 

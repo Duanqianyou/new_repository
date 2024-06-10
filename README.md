@@ -89,10 +89,7 @@ Markdown,文本修饰语言，用特殊符号修饰正文效果<br>
 	
         优点：不仅可以管理代码存储，便于多人协作开发
 	
-        	![1.png](https://postimg.cc/yWn2v2WB)
-
-          
-	![](https://i.postimg.cc/4NTZNggK/1.png)
+	![](https://i.postimg.cc/4NTZNggK/1.png " ")
 	
 
 
